@@ -1,8 +1,9 @@
 This small program uses a Raspberry Pi Zero W to drive the display portion
 of a Symmetricom ND-4 display ([manual](http://www1.symmetricom.com/media/files/support/ttm/product-manual/ND_um.pdf))
 
-[[https://github.com/wkumari/symmetricom-nd4-python/blob/master/IMG_5100.jpg|alt=ND4_clock]]
-[[https://github.com/wkumari/symmetricom-nd4-python/blob/master/IMG_5101.jpg|alt=ND4_clock_w_pi]]
+![ND4 Pi Clock](IMG_5100.jpg)
+![ND4 with mounted Pi](IMG_5101.jpg)
+
 
 
 This replaces the processor board of the ND-4, and powers the Pi from the
